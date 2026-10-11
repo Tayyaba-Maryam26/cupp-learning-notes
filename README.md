@@ -34,6 +34,52 @@ I shared five educational posters on LinkedIn covering CUPP fundamentals, comman
 - How interactive mode works.
 - How the tool generates and saves password candidates.
 
+---
+
+## 🖼️ CUPP Visual Learning Posters
+
+These five posters document my learning journey with CUPP (Common User Passwords Profiler), covering its purpose, command-line options, license, configuration, and a knowledge-check quiz.
+
+### 1. Introduction to CUPP
+
+An overview of CUPP, its purpose, and its role in password-auditing education.
+
+![CUPP Introduction](cupp-introduction.png)
+
+### 2. CUPP Command-Line Options
+
+A visual explanation of CUPP's command-line options and their purposes.
+
+![CUPP Command-Line Options](command-line-options.png)
+
+### 3. CUPP License
+
+An introduction to CUPP's license and the importance of understanding open-source software licensing.
+
+![CUPP License](cupp-license.png)
+
+### 4. CUPP Configuration
+
+An overview of CUPP configuration and why settings matter when working with the tool.
+
+![CUPP Configuration](cupp-configuration.png)
+
+### 5. CUPP Knowledge Check
+
+A quiz to review the concepts covered in the CUPP learning series.
+
+![CUPP Knowledge Check](cupp-knowledge-check.png)
+
+## 🎯 Learning Objectives
+
+- Understand CUPP's purpose and basic functionality.
+- Learn about its command-line options.
+- Understand software licensing and configuration.
+- Reinforce learning through visual notes and a knowledge-check quiz.
+
+
+These notes reflect my learning process and are shared for educational purposes.
+
 ## ⚠️ Ethical Use
 
 This repository is intended for educational purposes and authorized security assessments. Use CUPP only in environments where you have permission to conduct testing. Do not use real people's personal information without authorization.

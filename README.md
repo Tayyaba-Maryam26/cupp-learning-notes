@@ -22,7 +22,7 @@ I also completed a practical exercise demonstrating CUPP's interactive mode, fro
 
 I shared five educational posters on LinkedIn covering CUPP fundamentals, command-line options, licensing, configuration, and a knowledge-check quiz.
 
-**📌 View my five-poster LinkedIn post:** [Read the post]https://lnkd.in/p/dd8JNQTJ
+**📌 View my five-poster LinkedIn post:** https://lnkd.in/p/dd8JNQTJ
 
 🎥 **Practical Demonstration:** https://lnkd.in/p/dGfZGsqp — an interactive CUPP practical showing the workflow in an authorized learning environment.
 

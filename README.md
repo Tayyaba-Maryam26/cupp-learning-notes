@@ -24,7 +24,7 @@ I shared five educational posters on LinkedIn covering CUPP fundamentals, comman
 
 **📌 View my five-poster LinkedIn post:** [Read the post]https://lnkd.in/p/dd8JNQTJ
 
-🎥 **Practical Demonstration:** Coming tomorrow — an interactive CUPP practical showing the workflow in an authorized learning environment.
+🎥 **Practical Demonstration:** https://lnkd.in/p/dGfZGsqp — an interactive CUPP practical showing the workflow in an authorized learning environment.
 
 ## 🎯 What I Learned
 
